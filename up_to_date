@@ -1,0 +1,32 @@
+
+You use git push to Push you local files to the remote github repo
+this will ask you for authentication, enter your username and then click enter
+It will then ask you for Personal Access Token in order to be authenticated.
+
+Enter the PAT and then all the files will be pushed to github.com
+
+the "git pull command" you use to request all the files that are on a specific branch on your github account to your local machine
+
+the "git branch" command you use to show you the current branch you are working on.
+
+The "git branch <BRANCH NAME>" Command creates a branch with the name specified.
+
+The "git checkout" command is use to perform a couple functions 
+
+One of which is to switch to another branch on the project using the command below
+
+"git checkout <BRANCH NAME>" eg. "git checkout update_script" you use to switch to the update_script branch on the project.
+
+It can also be used to go back to a previous commit on the branch 
+
+When you type the command "git log" it shows you all the sequences of actions that has been performed on the branch . 
+
+the log well then show you each sequence with a hash
+
+so you use that hash to navigate to different commits on the project.
+
+So for example, you use "git checkout <HASH>" 
+Full command "git checkout 73R9NDU30958NDNJC8020UJDHUUEJK8CN" To navigate to a commit in the project 
+
+
+THIS README FILE WILL BE UPDATED AS THE COURSE PROGRESSES
